@@ -1,0 +1,16 @@
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.csprojAssemblyReference.cache
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.AssemblyInfoInputs.cache
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.AssemblyInfo.cs
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.csproj.CoreCompileInputs.cache
+C:\Users\Joel\workspace\addressBook\bin\Debug\net5.0\addressBook.exe
+C:\Users\Joel\workspace\addressBook\bin\Debug\net5.0\addressBook.deps.json
+C:\Users\Joel\workspace\addressBook\bin\Debug\net5.0\addressBook.runtimeconfig.json
+C:\Users\Joel\workspace\addressBook\bin\Debug\net5.0\addressBook.runtimeconfig.dev.json
+C:\Users\Joel\workspace\addressBook\bin\Debug\net5.0\addressBook.dll
+C:\Users\Joel\workspace\addressBook\bin\Debug\net5.0\ref\addressBook.dll
+C:\Users\Joel\workspace\addressBook\bin\Debug\net5.0\addressBook.pdb
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.dll
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\ref\addressBook.dll
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.pdb
+C:\Users\Joel\workspace\addressBook\obj\Debug\net5.0\addressBook.genruntimeconfig.cache
